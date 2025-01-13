@@ -12,7 +12,7 @@ products:
   message: "Hey Welcome to MicroServices Config Server"
   contactDetails:
     name: "Chinmay Rele"
-    email: "chinmayre@cybage.com"
+    email: "{cipher}42f02f7745f863547e333af6c5f4ae9c40edf36f44934898735181878ff08db97986c837a9c36967714495dd56b4178c"
   onCallSupoort:
     - 9078563412
     - 9404372648
