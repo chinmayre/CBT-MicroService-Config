@@ -9,9 +9,10 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 products:
+  message: "Hey Welcome to MicroServices Config Server"
   contactDetails:
-    name: Chinmay Rele
-    email: chinmayre@cybage.com
+    name: "Chinmay Rele"
+    email: "chinmayre@cybage.com"
   onCallSupoort:
     - 9078563412
     - 9404372648
