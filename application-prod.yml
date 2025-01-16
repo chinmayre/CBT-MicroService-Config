@@ -1,3 +1,16 @@
+spring:
+  application:
+    name: Config-PROD
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
 products:
   message: "Hey Welcome to MicroServices Production Config Server"
   contactDetails:
