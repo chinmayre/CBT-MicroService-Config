@@ -1,1 +1,8 @@
-
+products:
+  message: "Hey Welcome to MicroServices Production Config Server"
+  contactDetails:
+    name: "Nikhil Gupta Prod"
+    email: "{cipher}42f02f7745f863547e333af6c5f4ae9c40edf36f44934898735181878ff08db97986c837a9c36967714495dd56b4178c"
+  onCallSupoort:
+    - 1234567890
+    - 1324354657
