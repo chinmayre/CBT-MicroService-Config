@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: Config-Order-PROD
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+products:
+  message: "Hey Welcome to MicroServices Production Config Server of Order"
+  contactDetails:
+    name: "Nikhil Gupta Prod"
+    email: "{cipher}ed8d61c43b00d96b77775578dae0e07910c8fd6cce153dcc0c3d353a16bd82270c7553f4639d3fb55753bb8d3e2d4ccf"
+  onCallSupport:
+    - 1234567890
+    - 1324354657
