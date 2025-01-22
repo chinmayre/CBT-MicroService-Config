@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Config-User-PROD
+
 eureka:
   instance:
     hostname: localhost
