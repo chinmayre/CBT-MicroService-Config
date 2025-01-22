@@ -1,3 +1,13 @@
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
 orders:
   message: "Hey Welcome to MicroServices Config Server of Order"
   orderContactDetails:
