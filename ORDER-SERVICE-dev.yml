@@ -12,9 +12,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 orders:
-  message: "Hey Welcome to MicroServices Config Server of Order"
+  message: "Hey Welcome to MicroServices Config Server of Order DEV"
   orderContactDetails:
-    name: "Vaishnavi Adhau - ORDER"
+    name: "Vaishnavi Adhau - ORDER DEV"
     email: "{cipher}0a35482af90d85ef79a33cf9cf6d4bc6fba54fc2ad48bc77fba7185468fc3d40869ceb70c0e081fc8de70b6845d8e16e"
   onCallSupport:
     - 9078563412
