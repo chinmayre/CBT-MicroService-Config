@@ -14,8 +14,18 @@ eureka:
 products:
   message: "Hey Welcome to MicroServices Dev Config Server"
   contactDetails:
-    name: "vaishnavi Dev"
+    name: "Vaishnavi Dev"
     email: "{cipher}0a35482af90d85ef79a33cf9cf6d4bc6fba54fc2ad48bc77fba7185468fc3d40869ceb70c0e081fc8de70b6845d8e16e"
   onCallSupport:
     - 8079685746
     - 3554678534
+
+
+orders:
+  message: "Hey Welcome to MicroServices Config Server of Order"
+  orderContactDetails:
+    name: "Vaishnavi ADhau - ORDER"
+    email: "{cipher}0a35482af90d85ef79a33cf9cf6d4bc6fba54fc2ad48bc77fba7185468fc3d40869ceb70c0e081fc8de70b6845d8e16e"
+  onCallSupport:
+    - 9078563412
+    - 9404372648
