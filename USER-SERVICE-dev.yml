@@ -14,7 +14,7 @@ eureka:
 
 userProfiles:
   message: "Hey Welcome to MicroServices Config Server of User Profile DEV"
-  contactDetails:
+  userContactDetails:
     name: "Shubhangi Tayade - DEV"
     email: "{cipher}9fd6015eb70d36cc3196626e0bda9ac0fb4dca675f8f3f88cdda2f42915c5857661bcc7ea1a0a63dded6306821628f37"
   onCallSupport:
