@@ -12,9 +12,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 products:
-  message: "Hey Welcome to MicroServices Dev Config Server"
+  message: "Hey Welcome to MicroServices Development Config Server"
   contactDetails:
-    name: "Vaishnavi Dev"
+    name: "Vaishnavi Adhau Dev"
     email: "{cipher}0a35482af90d85ef79a33cf9cf6d4bc6fba54fc2ad48bc77fba7185468fc3d40869ceb70c0e081fc8de70b6845d8e16e"
   onCallSupport:
     - 8079685746
