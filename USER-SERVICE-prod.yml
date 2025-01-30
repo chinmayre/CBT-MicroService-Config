@@ -12,6 +12,9 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 
+build:
+  version: "1.0"
+
 userProfiles:
   message: "Hey Welcome to MicroServices Config Server of User Profile PROD"
   userContactDetails:
