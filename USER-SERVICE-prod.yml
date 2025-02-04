@@ -15,7 +15,7 @@ eureka:
 build:
   version: "1.0"
 
-userProfiles:
+user-profiles:
   message: "Hey Welcome to MicroServices Config Server of User Profile PROD"
   userContactDetails:
     name: "Shubhangi Tayade- PROD"
